@@ -1,0 +1,21 @@
+{
+  "name": "new-nv8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "epxress": "^0.0.1-security",
+    "git": "^0.1.5",
+    "mongoose": "^9.0.1",
+    "nodemon": "^3.1.11"
+  }
+}
